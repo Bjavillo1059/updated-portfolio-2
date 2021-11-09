@@ -1,0 +1,37 @@
+{
+  "name": "updated-portfolio-2",
+  "version": "1.0.0",
+  "description": "My personal portfolio for presentation of current and future projects.  Gives a User insight to who I am in this ever evolving digital world.  This serves as a detailed illustration of who I am, contact information, and what I love to do.",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "eslist": "^1.0.0-beta.1",
+    "expres": "^0.0.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "express-session": "^1.17.2",
+    "mysql2": "^2.3.3-rc.0",
+    "nodemon": "^2.0.14",
+    "prettier": "^2.4.1",
+    "sequelize": "^6.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/seed.js",
+    "watch": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bjavillo1059/updated-portfolio-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bjavillo1059/updated-portfolio-2/issues"
+  },
+  "homepage": "https://github.com/Bjavillo1059/updated-portfolio-2#readme"
+}
