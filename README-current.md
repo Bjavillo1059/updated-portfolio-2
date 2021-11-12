@@ -1,4 +1,4 @@
-# My Fat Portfolio
+# Updated-Portfolio-2
 
 ## Description
 
@@ -16,6 +16,10 @@ My personal portfolio for presentation of current and future projects.  Gives a 
 - CSS
 - JavaScript
 - BootStrap 5
+- Node
+- 
+- 
+- 
 
 
 ## Contact Info
@@ -27,7 +31,7 @@ please contact me at [brandonjavillo@gmail.com](brandonjavillo@gmail.com)
 
 <!-- - NavBar created with links and supporting documents -->
 NavBar
-When a User opens porfolio page, a display of my name will show with a quote!
+-When a User opens porfolio page, a display of my name will show with a quote!
     - Name with quote appears in navbar
     - Contact info hyper link appears:
         - links to contact information that is set in the footer
@@ -38,16 +42,16 @@ When a User opens porfolio page, a display of my name will show with a quote!
 
 <!-- - Carousel created with corresponding information -->
 Carousel
-Wehn a User opens portfolio page, a carousel appers with information about myself
+- When a User opens portfolio page, a carousel appers with information about myself
     - Carousel About me
         - quick explanation about myself
     - Carousel Projects
         - show case of my projects
         - linked to my GitHub
-            [- NutriVal](https://bjavillo1059.github.io/Nutritional-Value/) 
-            [- Daily Planner](https://bjavillo1059.github.io/Daily-Planner-wk-6/)
-            [- Js Trivia](https://bjavillo1059.github.io/My-Code-Quiz/)
-            [- PassWord Generator](https://bjavillo1059.github.io/password-generator/)
+            -[- NutriVal](https://bjavillo1059.github.io/Nutritional-Value/) 
+            -[- Daily Planner](https://bjavillo1059.github.io/Daily-Planner-wk-6/)
+            -[- Js Trivia](https://bjavillo1059.github.io/My-Code-Quiz/)
+            -[- PassWord Generator](https://bjavillo1059.github.io/password-generator/)
 
 <!-- Furture development of these carousels are in the works-->
 Future works

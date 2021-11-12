@@ -1,17 +1,22 @@
 [
   {
-    "name": "Music Near Me",
-    "description": "A mobile app that will send you notifications whenever a concert is playing in your area.",
-    "needed_funding": 5000
+    "name": "NurtiVal",
+    "description": "An app that helps it's users to get the most of their foods, by displaying how much nurtrients are in the food they are searching for.",
+    "date_created": "2021-08-31"
   },
   {
-    "name": "The Ultimate Tech Quiz",
-    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
-    "needed_funding": 10000
+    "name": "Note Taker",
+    "description": "An app that can save and retrieve note data from a JSON.  A User can write and save notes to keep track of anyhing the User wants to take notes of",
+    "date_created": "2021-09-09"
   },
   {
-    "name": "Roll 'Em Up",
-    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
-    "needed_funding": 800
+    "name": "Workout Tracker",
+    "description": "A web app that a user can view, create, and track daily workouts",
+    "date_created": "2021-10-25"
+  },
+  {
+    "name": "PWA Budget Tracker",
+    "description": "A web app that is able to add expenses and deposits to a budget with or without a connection.  When entering transactions offline, the data is stored until an online connection is established then all saved data is uploaded and saved to the app.",
+    "date_created": "2021-11-05"
   }
 ]
